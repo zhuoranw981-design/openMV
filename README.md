@@ -1,3 +1,4 @@
 # openMV
 存放关于openMV期中作业
-untitled_1.py已经实现了基础的图像识别，开始时将物体与摄像头放到在1米处确定k值
+
+shape_measurement.py已经实现了基础的图像识别，开始时将物体与摄像头放到在1米处确定k值
